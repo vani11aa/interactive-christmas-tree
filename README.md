@@ -24,7 +24,7 @@ This project is a web-based interactive Christmas tree application. Users can cl
 
 ### Installation
 1. Clone the repository:
-   ```git clone https://github.com/your-username/interactive-christmas-tree.git```
+   ```git clone https://github.com/vani11aa/interactive-christmas-tree.git```
 
 2. Navigate to the project directory:
    ```cd interactive-christmas-tree```
