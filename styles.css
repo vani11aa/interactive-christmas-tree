@@ -1,0 +1,18 @@
+#tree-container {
+    position: relative;
+    width: 300px;
+    height: 450px;
+    background: url('https://cdn.discordapp.com/attachments/1187932523263688815/1188284966761668608/vani11a._a_christmas_tree_without_lights_1a20e0cf-5ccb-4427-b028-2d7f3f3e9672.png?ex=6599f79d&is=6587829d&hm=b4141f843e539fe876a0551e45487f205b25c30f19865fb63eca15d13b9d8642&'); /* Replace with your tree image URL */
+    background-size: cover;
+    margin: 20px auto;
+}
+
+.light {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: rgb(69, 57, 0);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
